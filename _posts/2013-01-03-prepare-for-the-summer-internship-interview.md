@@ -2,8 +2,8 @@
 layout: post
 title: "Prepare for the summer internship interview"
 description: ""
-category: 
-tags: []
+category: life
+tags: [tech, interview]
 ---
 {% include JB/setup %}
 
