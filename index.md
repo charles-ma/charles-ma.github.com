@@ -1,32 +1,24 @@
 ---
 layout: page
 title: Welcome to my Blog!
-tagline: 
+tagline: introduction
 ---
 {% include JB/setup %}
 
-## Update Author Attributes
+## About the Author
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+    Charles Ma
+    A student in the University of Pennsylvania. Majored in Computer Science. Having got his first master's degree last year and now working on his second. Intersted in Linux, Java, emacs, C, C++, Python and believe that writing code could be an art. 
+    Also he has strong background in humanities. Born in China he has a deep understanding of Chinese traditional culture.
+    Believing that economy is acting an important role to change the world, he is also interested in economy and trading...
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+    email: mcrichard.buaa@gmail.com
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+##About this Blog
 
-     $ rm -rf _posts/core-samples
+	This blog is mainly about technology and some other related or unrelated interesting topic such as ellen show...
 
-Here's the "posts list".
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -34,6 +26,3 @@ Here's the "posts list".
   {% endfor %}
 </ul>
 
-    this is 
-
-this is 
