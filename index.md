@@ -6,7 +6,6 @@ tagline:
 {% include JB/setup %}
 
 ## About the Author
-
     Charles Ma
 
     A student in the University of Pennsylvania. Majored in Computer Science.
@@ -16,11 +15,8 @@ tagline:
     Believing that economy is acting an important role to change the world, he is also interested in economy and trading...
 
     email: mcrichard.buaa@gmail.com
-
 ##About this Blog
-
 	This blog is mainly about technology and some other related or unrelated interesting topics such as [ellen show](http://www.ellentv.com)...
-
 ## Posts
 
 <ul class="posts">
