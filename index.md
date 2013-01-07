@@ -16,7 +16,7 @@ Believing that economy is acting an important role to change the world, he is al
 email: mcrichard.buaa@gmail.com
 ##About this Blog
 This blog is mainly about technology and some other related or unrelated interesting topics such as [ellen show](http://www.ellentv.com), [NBA](http://www.nba.com)...
-Besides, he is also a big fun of FCB(http://www.fcbarcelona.com). Xavi, Iniesta and Messi are geniuses!
+Besides, he is also a big fun of [FCB](http://www.fcbarcelona.com). Xavi, Iniesta and Messi are geniuses!
 ## Posts
 
 <ul class="posts">
