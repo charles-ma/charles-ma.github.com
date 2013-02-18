@@ -11,17 +11,17 @@ As we know, a class in Java can contain fields of its own type. For example, a c
 If you define your class like this:
 
       class A {
-         private A a = new A();
-	 public A() {
-	 	
-	 }
+      private A a = new A();
+	    public A() {
+
+	    }
       }
    
 then something wrong will happen during run time when you want to initialize A. Why this happened? Let's analyze the code.
 When you are trying to initialize A, you actually initialize the field a in class A first, and at this time, you will automatically call the constructor of A to initialize a, but the problem is during the process of initializing a, the virtual machine has to initialize the field a of the new instance again. Then this circle will go on forever... Then how to solve this problem? Here's one possible way:
 
      	 class A {
-     	         static A a = new A();
+	 static A a = new A();
 		 public A() {
 		 
 		 }
