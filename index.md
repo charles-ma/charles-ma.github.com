@@ -12,8 +12,11 @@ Software engineer
 #js #html5 #css #Angularjs #nodejs #front end dev
 
 email: mcrichard.buaa@gmail.com
+
 ## About this Blog
-This blog is mainly about front end technology
+
+js related technology
+
 ## Posts
 
 <ul class="posts">
