@@ -1,8 +1,0 @@
----
-layout: post
-title: "java self contained class"
-description: "some hints about self contained class in java"
-category: technology
-tags: [tech]
----
-{% include JB/setup %}
