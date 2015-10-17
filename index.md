@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Welcome to my Blog!
+title: C.M. @ js
 tagline: 
 ---
 {% include JB/setup %}
 
 ## About the Author
-Charles Ma
 
-Software engineer
-#js #html5 #css #Angularjs #nodejs #front end dev
+<span class='red'>C</span>.M.
 
-email: mcrichard.buaa@gmail.com
+Software Engineer <a href='mailto:mcrichard.buaa@gmail.com'><i class='fa fa-send'></i></a> <a href='//github.com/charles-ma'><i class='fa fa-github'></i></a> <a href='//twitter.com/CharlesRMa'><i class='fa fa-twitter'></i></a>
+<br>#js #html5 #css #Angularjs #nodejs #front end dev
 
 ## About this Blog
 

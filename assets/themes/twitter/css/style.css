@@ -1,3 +1,5 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
+
 /* Override some defaults */
 html, body {
   background-color: #eee;
@@ -68,4 +70,8 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+/* Customized rules */	
+.red{
+	color:red;
+}
