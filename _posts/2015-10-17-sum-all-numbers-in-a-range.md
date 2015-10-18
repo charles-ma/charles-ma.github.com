@@ -61,3 +61,5 @@ We don't have to populate the newArr up! This will save us some cpu time and mem
 </pre>
 
 In this solution, we only call <code>Math.abs()</code> which is a very simple function and all the others are simply arithmetic ops! So when you are coding, don't think you are coding, in the first place, you are trying to solve a problem. So come up with a mathematical solution, then convert it to real code. If you do it that way, you will come up with the third solution first.
+
+<script src="//google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
