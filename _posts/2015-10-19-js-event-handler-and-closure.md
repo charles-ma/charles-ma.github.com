@@ -36,7 +36,7 @@ There are multiple ways to solve this issue, the simplest is to make a real copy
 <pre class='prettyprint lang-js'>
     function onLoad() {
         for (var i = 0; i < arr.length; i++) {
-	    arr[j].onclick(function() {
+	    arr[i].onclick(function() {
 	        var j = i;
 	        alert(j);
 	    });
