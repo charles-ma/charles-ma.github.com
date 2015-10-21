@@ -14,7 +14,7 @@ Software Engineer <a href='mailto:mcrichard.buaa@gmail.com'><i class='fa fa-send
 
 ## About this Blog
 
-js related technology
+Js related notes
 
 ## Posts
 
