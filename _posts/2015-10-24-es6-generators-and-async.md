@@ -8,3 +8,4 @@ tags: [js, async]
 {% include JB/setup %}
 
 
+###ES6 Generator
